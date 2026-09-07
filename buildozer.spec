@@ -1,6 +1,6 @@
 [app]
 
-title = Robin's Run
+title = Robins Run
 package.name = robinsrun
 package.domain = org.asystudios
 
