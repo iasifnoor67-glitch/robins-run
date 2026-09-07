@@ -8,7 +8,7 @@ source.include_exts = py,png,jpg,kv,atlas,mp3,wav
 
 version = 1.0
 
-requirements = python3==3.11.9,kivy==2.3.1,charset-normalizer==2.1.1
+requirements = python3==3.14.2,kivy==2.3.1,charset-normalizer==2.1.1
 
 orientation = portrait
 fullscreen = 1
