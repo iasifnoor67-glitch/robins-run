@@ -7,13 +7,14 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,mp3,wav
 
 version = 1.0
-
-requirements = python3==3.14.2,kivy==2.3.1,certifi,chardet,charset-normalizer==2.1.1,filetype,idna,requests,six,urllib3
+requirements = python3,kivy
 
 orientation = portrait
 fullscreen = 1
 
 icon.filename = %(source.dir)s/assets/icon.png
+
+p4a.branch = 2024.01.21
 
 [buildozer]
 log_level = 2
