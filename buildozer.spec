@@ -11,6 +11,8 @@ version = 1.0
 
 requirements = python3,kivy
 
+p4a.branch = v2024.01.21
+
 orientation = portrait
 
 icon.filename = %(source.dir)s/assets/icon.png
